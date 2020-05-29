@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "226717644959",
+    "firebase_url": "https://dineamite-af74f.firebaseio.com",
+    "project_id": "dineamite-af74f",
+    "storage_bucket": "dineamite-af74f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226717644959:android:ba602b7955442531",
+        "android_client_info": {
+          "package_name": "com.example.riddhi.dineamite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226717644959-j5hr441lbghpke8jbqbls1nvjkmaajt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riddhi.dineamite",
+            "certificate_hash": "515da820b5b01dbb4acf1e315696375b412fb0aa"
+          }
+        },
+        {
+          "client_id": "226717644959-pma884j2ng3j33iau1g1tbrtea1er43g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyOD0oAUNDLYNsR99C0CLmILR5zenooJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226717644959-pma884j2ng3j33iau1g1tbrtea1er43g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
